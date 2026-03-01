@@ -18,13 +18,13 @@ Automatically classifying date fruit varieties based on measurable attributes us
 🔎 Architecture Flow
 
 Input Features
-      ↓
+      ->
 Hidden Layer (ReLU)
-      ↓
+      ->
 Hidden Layer (ReLU)
-      ↓
+      ->
 Output Layer (Softmax / Logits)
-      ↓
+      ->
 Predicted Class
 
 
